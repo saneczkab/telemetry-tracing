@@ -1,0 +1,6 @@
+{
+    "dotrush.roslyn.projectOrSolutionFiles": [
+        "/Users/phonkx/git/telemetry-tracing/telemetry-tracing.sln",
+        "/Users/phonkx/git/telemetry-tracing/tracing-test-service/tracing-test-service.csproj"
+    ]
+}
